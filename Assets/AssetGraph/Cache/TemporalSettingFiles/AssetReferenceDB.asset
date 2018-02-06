@@ -1364,4 +1364,80 @@ MonoBehaviour:
     m_importFrom: Assets/AssetBundleBrowser/UnityEngine.AssetBundles/Editor/AssetBundleBrowser/MessageSystem.cs
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: 7f9859e1e74c5d14186cf317ed0ba3ed
+    m_importFrom: Assets/Scenes/MovimientoNaranja
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6e623af53e9c4940ba290b6ed7ac35f
+    m_importFrom: Assets/Scenes/MovimientoNaranja/Movimiento.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 410ff45a140acfd4981724bfeb332ddc
+    m_importFrom: Assets/SpritesMovimiento/fists.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2a280e4aae010184aabbd860bf244c9d
+    m_importFrom: Assets/SpritesMovimiento/Materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8cda6e921d8e9d4ca8cc0495f0fe051
+    m_importFrom: Assets/SpritesMovimiento/Materials/fists.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7db3d76e7bec3c54fb318b1c772bb003
+    m_importFrom: Assets/SpritesMovimiento/lenin.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b21263f782a28f43bbdc4f17e729dd0
+    m_importFrom: Assets/SpritesMovimiento/Materials/lenin.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 84806478603f1f6448bf6771865fb7bd
+    m_importFrom: Assets/SpritesMovimiento/fondo.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49660cfb26793944a90fdadab305fce2
+    m_importFrom: Assets/SpritesMovimiento/Materials/fondo.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: faea710e8cb574b44be1c5c046b98979
+    m_importFrom: Assets/Scripts/MovimientNaranja
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df2cec2285096fc478dfa52d2bafa259
+    m_importFrom: Assets/Scripts/MovimientNaranja/MainScript.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 84806478603f1f6448bf6771865fb7bd
+    m_importFrom: Assets/SpritesMovimiento/fondo.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8cda6e921d8e9d4ca8cc0495f0fe051
+    m_importFrom: Assets/SpritesMovimiento/Materials/fists.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2a280e4aae010184aabbd860bf244c9d
+    m_importFrom: Assets/SpritesMovimiento/Materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 410ff45a140acfd4981724bfeb332ddc
+    m_importFrom: Assets/SpritesMovimiento/fists.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49660cfb26793944a90fdadab305fce2
+    m_importFrom: Assets/SpritesMovimiento/Materials/fondo.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7db3d76e7bec3c54fb318b1c772bb003
+    m_importFrom: Assets/SpritesMovimiento/lenin.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20e18aeeb6c93e34291b60bd3aac676d
+    m_importFrom: Assets/SpritesMovimiento
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b21263f782a28f43bbdc4f17e729dd0
+    m_importFrom: Assets/SpritesMovimiento/Materials/lenin.mat
+    m_exportTo: 
+    m_variantName: 
   m_version: 2
